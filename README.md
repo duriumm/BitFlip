@@ -1,5 +1,9 @@
 # Bit-Game
-My unity project for the game 
+This is my second game ever made, I have taken much inspiration from flippyBits
+but i changed the formula to be easier (yes I had trouble playing it :D )
 
-:)
-![alt text](https://cdn02.nintendo-europe.com/media/images/10_share_images/portals_3/SI_Hub_Zelda_Portal_image1600w.jpg)
+The point is to make your numbers(in the bottom) match the number on the falling enemy!
+You simply convert the enemy decimal number to binary and if they match you get a point! :)
+
+
+![alt text](https://i.imgur.com/HsKUS2a.png)
