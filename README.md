@@ -1,4 +1,4 @@
-# Bit-Game
+# BitFlip
 This is my second game ever made, I have taken much inspiration from flippyBits
 but i changed the formula to be easier (yes I had trouble playing it :D )
 
