@@ -7,3 +7,5 @@ You simply convert the enemy decimal number to binary and if they match you get 
 
 
 ![alt text](https://i.imgur.com/HsKUS2a.png)
+
+![alt text](https://giphy.com/gifs/SXICBcZJnJmYXURoos)
