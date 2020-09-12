@@ -10,4 +10,4 @@ You simply convert the enemy decimal number to binary and if they match you get 
 
 
 
-![](https://giphy.com/gifs/SXICBcZJnJmYXURoos)
+![](https://media.giphy.com/media/SXICBcZJnJmYXURoos/giphy.gif)
